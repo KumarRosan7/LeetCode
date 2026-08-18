@@ -26,9 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
