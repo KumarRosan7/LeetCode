@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0344-reverse-string](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dasrosan2003-dotcom/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
